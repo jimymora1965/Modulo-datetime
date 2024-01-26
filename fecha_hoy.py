@@ -1,7 +1,5 @@
 from datetime import *
 
-
-
 # Crear una función para obtener la fecha actual
 def obtener_fecha_actual():
     return datetime.now()
